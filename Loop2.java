@@ -30,7 +30,7 @@ for(i=1;i<3;i++){
 		System.out.println("Enter the correct password.(nova)");
 		inputpassword=keyboard.next();
 		};}
-		else{System.out.println("Welcome "+ username);}
+		{System.out.println("Welcome "+ username);}
 
 	
 		
